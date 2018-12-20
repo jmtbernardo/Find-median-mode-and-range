@@ -1,4 +1,4 @@
-# The Program calculates the following; Mode, median, mode, and range.
+# The Program calculates the following; mean, median, mode, and range.
 
 
 # User input values
